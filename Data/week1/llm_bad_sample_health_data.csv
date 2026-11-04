@@ -1,0 +1,11 @@
+Patient ID,Age,Gender,Ethnicity,Height (cm),Weight (kg),Blood Pressure,Chronic Conditions,Medications,Outcome,Notes
+P001,45,Male,Caucasian,175,85,130/85,Hypertension,Lisinopril,Stable,"Follow-up scheduled in 6 months"
+P002,32,Female,Hispanic,160,68,118/76,None,N/A,Recovered,"Routine check-up"
+P003,67,Female,African American,162,76,135/90,"Type 2 Diabetes; Hypertension",Metformin; Amlodipine,Under Treatment,"Monitoring blood sugar levels"
+P004,54,Male,Asian,168,77,140/92,"Coronary Artery Disease",Atorvastatin; Aspirin,Critical,"Recent hospital admission"
+P005,28,Non-binary,Caucasian,170,60,110/70,Asthma,"Albuterol Inhaler",Improved,"Mild symptoms; recommended exercise"
+P006,73,Male,Caucasian,172,80,145/95,"Chronic Obstructive Pulmonary Disease (COPD)",Tiotropium,Stable,"Advised to quit smoking"
+P007,39,Female,Native American,158,65,125/80,Migraines,Sumatriptan,Improved,"Regular follow-ups recommended"
+P008,52,Male,Hispanic,180,95,138/88,"Obesity; Pre-diabetes",Metformin,Under Treatment,"Advised dietary adjustments"
+P009,61,Female,African American,165,72,132/84,"Rheumatoid Arthritis",Methotrexate; Ibuprofen,Under Treatment,"Pain management ongoing"
+P010,36,Male,Asian,177,80,120/78,None,N/A,Recovered,"Recent health screening; no issues"
